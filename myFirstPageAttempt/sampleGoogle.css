@@ -1,0 +1,35 @@
+#searchBar {
+	margin-left:42%;
+	margin-right:40%;
+	margin-top: 15px
+	height: 600px;
+	width: 488px;
+	position: absolute;
+}
+#main_logo{
+	margin-left:40%;
+	margin-right:40%;
+	margin-top: 200px;
+}
+
+.footerBackground {
+	position:absolute;
+	border-top: 1px solid grey;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	line-height: 40px;
+	background-color: lightgrey;
+	visibility: visible;
+}
+
+#footerText{
+	padding-left: 27px;
+	font-family: arial;
+	text-decoration:none;
+	margin-left: 0;
+	text-decoration-color: grey;
+}
+
+body {
+}
